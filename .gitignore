@@ -1,0 +1,17 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Build artifacts
+labs/**/*.o
+labs/00-vector-add/vector_add
+build/
+*.so
+*.pyc
+__pycache__/
+
+# OS / editor
+.DS_Store
+*.swp
